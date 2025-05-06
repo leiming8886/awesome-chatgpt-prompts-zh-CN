@@ -26,26 +26,25 @@
           <mxGeometry x="570" y="332" width="227" height="54" as="geometry" />
         </mxCell>
         <mxCell id="9q3nwMVUDi4YbfW2KWvW-7" value="鼻病毒亚型差异分析" style="whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="311" y="446" width="180" height="54" as="geometry" />
+          <mxGeometry x="311" y="450" width="180" height="54" as="geometry" />
         </mxCell>
         <mxCell id="9q3nwMVUDi4YbfW2KWvW-8" value="污染物-感染预测模型建立" style="whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="280" y="526" width="242" height="54" as="geometry" />
+          <mxGeometry x="280" y="546" width="242" height="54" as="geometry" />
         </mxCell>
         <mxCell id="9q3nwMVUDi4YbfW2KWvW-9" value="结果验证与敏感性分析" style="whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="291" y="616" width="220" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="9q3nwMVUDi4YbfW2KWvW-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="9q3nwMVUDi4YbfW2KWvW-7" target="9q3nwMVUDi4YbfW2KWvW-8" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9q3nwMVUDi4YbfW2KWvW-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="9q3nwMVUDi4YbfW2KWvW-8" target="9q3nwMVUDi4YbfW2KWvW-9" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+          <mxGeometry x="291" y="640" width="220" height="54" as="geometry" />
         </mxCell>
         <mxCell id="9yNOKnyS7ASG2MC91Dju-5" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1;fontStyle=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="366.5" y="280" width="69" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9yNOKnyS7ASG2MC91Dju-9" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1;fontStyle=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="373.63" y="411.38" width="56.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9yNOKnyS7ASG2MC91Dju-10" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1;fontStyle=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="381.82" y="515.18" width="39.88" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9yNOKnyS7ASG2MC91Dju-11" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1;fontStyle=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="381.82" y="610" width="39.88" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
