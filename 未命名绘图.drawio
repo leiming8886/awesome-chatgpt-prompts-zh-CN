@@ -4,13 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9yNOKnyS7ASG2MC91Dju-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9yNOKnyS7ASG2MC91Dju-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9yNOKnyS7ASG2MC91Dju-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="134" width="520" height="66" as="geometry" />
+          <mxGeometry x="163.5" y="134" width="490" height="66" as="geometry" />
         </mxCell>
         <mxCell id="9q3nwMVUDi4YbfW2KWvW-2" value="鼻病毒病例筛选" style="whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="180" y="140" width="174" height="54" as="geometry" />
@@ -27,8 +22,8 @@
         <mxCell id="9q3nwMVUDi4YbfW2KWvW-6" value="多污染物DLNM模型优化" style="whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="570" y="332" width="227" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="9q3nwMVUDi4YbfW2KWvW-7" value="RV亚型差异分析" style="whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="323" y="430" width="156" height="54" as="geometry" />
+        <mxCell id="9q3nwMVUDi4YbfW2KWvW-7" value="鼻病毒亚型差异分析" style="whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="311" y="430" width="180" height="54" as="geometry" />
         </mxCell>
         <mxCell id="9q3nwMVUDi4YbfW2KWvW-8" value="污染物-感染预测模型建立" style="whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="280" y="510" width="242" height="54" as="geometry" />
@@ -45,6 +40,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9yNOKnyS7ASG2MC91Dju-5" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1;fontStyle=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="366.5" y="240" width="69" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
