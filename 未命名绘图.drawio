@@ -1,0 +1,44 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.97 Safari/537.36 SE 2.X MetaSr 1.0" version="26.2.12">
+  <diagram name="Page-1" id="OI99oiLmVk2AP9gJwhu6">
+    <mxGraphModel dx="1004" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9q3nwMVUDi4YbfW2KWvW-2" value="RV阳性病例筛选" style="whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="180" y="140" width="174" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="9q3nwMVUDi4YbfW2KWvW-3" value="污染物数据处理" style="whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="440" y="140" width="172" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="9q3nwMVUDi4YbfW2KWvW-4" value="描述性统计与相关性分析" style="whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="30" y="332" width="236" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="9q3nwMVUDi4YbfW2KWvW-5" value="单污染物DLNM模型构建" style="whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="295" y="332" width="227" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="9q3nwMVUDi4YbfW2KWvW-6" value="多污染物DLNM模型优化" style="whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="570" y="332" width="227" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="9q3nwMVUDi4YbfW2KWvW-7" value="RV亚型差异分析" style="whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="323" y="430" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="9q3nwMVUDi4YbfW2KWvW-8" value="污染物-感染预测模型建立" style="whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="510" width="242" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="9q3nwMVUDi4YbfW2KWvW-9" value="结果验证与敏感性分析" style="whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="291" y="600" width="220" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="9q3nwMVUDi4YbfW2KWvW-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="9q3nwMVUDi4YbfW2KWvW-7" target="9q3nwMVUDi4YbfW2KWvW-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9q3nwMVUDi4YbfW2KWvW-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="9q3nwMVUDi4YbfW2KWvW-8" target="9q3nwMVUDi4YbfW2KWvW-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
