@@ -1,50 +1,99 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.97 Safari/537.36 SE 2.X MetaSr 1.0" version="26.2.12">
-  <diagram name="Page-1" id="OI99oiLmVk2AP9gJwhu6">
-    <mxGraphModel dx="1181" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="27.1.4">
+  <diagram name="第 1 页" id="MoM5HvEvxiEUrhwyZwke">
+    <mxGraphModel dx="1996" dy="1166" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9yNOKnyS7ASG2MC91Dju-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=0.5;" vertex="1" parent="1">
-          <mxGeometry x="21" y="326" width="799" height="66" as="geometry" />
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-67" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="160" width="760" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="9yNOKnyS7ASG2MC91Dju-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=0.5;" vertex="1" parent="1">
-          <mxGeometry x="163.5" y="188" width="476.5" height="66" as="geometry" />
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-6" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="353" y="160" width="834" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="9q3nwMVUDi4YbfW2KWvW-2" value="鼻病毒病例筛选" style="whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="180" y="194" width="174" height="54" as="geometry" />
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-7" value="数据来源整合&#xa;(tNGS平台/LIS/HIS/EMR)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="380" y="210" width="236" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="9q3nwMVUDi4YbfW2KWvW-3" value="污染物数据处理" style="whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="440" y="194" width="172" height="54" as="geometry" />
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-8" value="标准化数据体系&#xa;(数据字典/中间模型)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="666" y="210" width="208" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="9q3nwMVUDi4YbfW2KWvW-4" value="描述性统计与相关性分析" style="whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="30" y="332" width="236" height="54" as="geometry" />
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-9" value="数据清洗与补齐&#xa;(NLP处理非结构化数据)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="929.5" y="208" width="227" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="9q3nwMVUDi4YbfW2KWvW-5" value="单污染物DLNM模型构建" style="whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="295" y="332" width="227" height="54" as="geometry" />
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-12" value="多标签建模策略&#xa;(BR/CC/LP/ECC)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="210" width="179" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="9q3nwMVUDi4YbfW2KWvW-6" value="多污染物DLNM模型优化" style="whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="570" y="332" width="227" height="54" as="geometry" />
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-13" value="算法集成框架&#xa;(RF/SVM/XGBoost/MLP)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="208" width="230" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="9q3nwMVUDi4YbfW2KWvW-7" value="鼻病毒亚型差异分析" style="whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="311" y="450" width="180" height="54" as="geometry" />
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-14" value="特征工程&#xa;(LASSO/SHAP/交叉生成)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="970" y="640" width="220" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="9q3nwMVUDi4YbfW2KWvW-8" value="污染物-感染预测模型建立" style="whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="280" y="546" width="242" height="54" as="geometry" />
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-15" value="模型评估&#xa;(交叉验证/AUC/F1)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="208" width="199" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="9q3nwMVUDi4YbfW2KWvW-9" value="结果验证与敏感性分析" style="whiteSpace=wrap;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="291" y="640" width="220" height="54" as="geometry" />
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-16" value="双层级风险预警机制" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="430" width="750" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="9yNOKnyS7ASG2MC91Dju-5" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1;fontStyle=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="366.5" y="280" width="69" height="20" as="geometry" />
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-17" value="样本级预警&#xa;(风险等级/用药推荐)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="640" width="208" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="9yNOKnyS7ASG2MC91Dju-9" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1;fontStyle=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="373.63" y="411.38" width="56.25" height="20" as="geometry" />
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-18" value="科室级建模&#xa;(耐药率趋势/风险地图)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1513" y="640" width="224" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="9yNOKnyS7ASG2MC91Dju-10" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1;fontStyle=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="381.82" y="515.18" width="39.88" height="20" as="geometry" />
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-19" value="预警推送&#xa;(感控联动/干预闭环)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1792" y="640" width="208" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="9yNOKnyS7ASG2MC91Dju-11" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1;fontStyle=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="381.82" y="610" width="39.88" height="20" as="geometry" />
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-20" value="大模型智能体" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="353" y="430" width="837" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-21" value="医学LLM定制&#xa;(&#39;小域医&#39;模型)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="360" y="640" width="157" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-22" value="知识库融合&#xa;(指南/临床路径/CARD)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="539" y="640" width="201" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-23" value="智能生成&#xa;(诊断建议/用药方案)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="749" y="640" width="208" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-24" value="智能预警平台系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="260" width="188" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-25" value="微服务架构&#xa;(四大功能模块)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="386" width="168" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-26" value="多院部署能力&#xa;(本地/私有云/区域节点)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2388" y="386" width="233" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-27" value="标准化接口&#xa;(HL7/FHIR)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2670" y="386" width="140" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.14;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="w4X7jHSgG0uKmDSapHs3-24" target="w4X7jHSgG0uKmDSapHs3-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2254" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-52" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" target="w4X7jHSgG0uKmDSapHs3-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2504" y="350" />
+            </Array>
+            <mxPoint x="2465" y="338" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.84;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="w4X7jHSgG0uKmDSapHs3-24" target="w4X7jHSgG0uKmDSapHs3-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2740" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-64" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;&quot;&gt;分子-临床-感控多维数据&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;&quot;&gt;监测网络&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="160" width="370" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-65" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;革兰阴性菌耐药性预测模型&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="160" width="400" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
