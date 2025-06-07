@@ -27,25 +27,25 @@
         <mxCell id="w4X7jHSgG0uKmDSapHs3-6" value="" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="363" y="160" width="834" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="w4X7jHSgG0uKmDSapHs3-7" value="数据来源整合&#xa;(tNGS平台/LIS/HIS/EMR)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-7" value="数据来源整合&#xa;(tNGS平台/LIS/HIS/EMR)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="380" y="210" width="236" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="w4X7jHSgG0uKmDSapHs3-8" value="标准化数据体系&#xa;(数据字典/中间模型)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-8" value="标准化数据体系&#xa;(数据字典/中间模型)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="666" y="210" width="208" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="w4X7jHSgG0uKmDSapHs3-9" value="数据清洗与补齐&#xa;(NLP处理非结构化数据)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-9" value="数据清洗与补齐&#xa;(NLP处理非结构化数据)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="929.5" y="208" width="227" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="w4X7jHSgG0uKmDSapHs3-12" value="多标签建模策略&#xa;(BR/CC/LP/ECC)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-12" value="多标签建模策略&#xa;(BR/CC/LP/ECC)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1247" y="210" width="179" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="w4X7jHSgG0uKmDSapHs3-13" value="算法集成框架&#xa;(RF/SVM/XGBoost/MLP)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-13" value="算法集成框架&#xa;(RF/SVM/XGBoost/MLP)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1467" y="208" width="230" height="102" as="geometry" />
         </mxCell>
         <mxCell id="w4X7jHSgG0uKmDSapHs3-14" value="特征工程&#xa;(LASSO/SHAP/交叉生成)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="970" y="619" width="220" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="w4X7jHSgG0uKmDSapHs3-15" value="模型评估&#xa;(交叉验证/AUC/F1)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-15" value="模型评估&#xa;(交叉验证/AUC/F1)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1737" y="208" width="199" height="102" as="geometry" />
         </mxCell>
         <mxCell id="w4X7jHSgG0uKmDSapHs3-16" value="双层级风险预警机制" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;fontStyle=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
@@ -84,10 +84,10 @@
         <mxCell id="w4X7jHSgG0uKmDSapHs3-27" value="标准化接口&#xa;(HL7/FHIR)" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;fontStyle=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="180" y="600" width="170" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="w4X7jHSgG0uKmDSapHs3-64" value="&lt;font style=&quot;font-size: 24px; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;span style=&quot;font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;&quot;&gt;分子-临床-感控多维数据&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;&quot;&gt;监测网络&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=1;fontColor=light-dark(#d0e1f9, #ededed);" parent="1" vertex="1">
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-64" value="&lt;font style=&quot;font-size: 24px; color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;&quot;&gt;分子-临床-感控多维数据&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;&quot;&gt;监测网络&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=1;fontColor=light-dark(#d0e1f9, #ededed);" parent="1" vertex="1">
           <mxGeometry x="600" y="160" width="370" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="w4X7jHSgG0uKmDSapHs3-65" value="&lt;span style=&quot;font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;革兰阴性菌耐药性预测模型&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;fontStyle=1;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-65" value="&lt;span style=&quot;font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;革兰阴性菌耐药性预测模型&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;fontStyle=1;fontColor=default;textShadow=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1377" y="160" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pc1VlUBRtj1kkJa0Z193-8" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
