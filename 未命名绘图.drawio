@@ -1,9 +1,20 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="27.1.4">
   <diagram name="第 1 页" id="MoM5HvEvxiEUrhwyZwke">
-    <mxGraphModel dx="1663" dy="972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1996" dy="1166" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Pc1VlUBRtj1kkJa0Z193-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endSize=12;strokeWidth=2;" edge="1" parent="1" source="Pc1VlUBRtj1kkJa0Z193-13" target="w4X7jHSgG0uKmDSapHs3-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1220" y="370" />
+              <mxPoint x="785" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pc1VlUBRtj1kkJa0Z193-13" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="355" y="150" width="1625" height="190" as="geometry" />
+        </mxCell>
         <mxCell id="Pc1VlUBRtj1kkJa0Z193-4" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="1210" y="610" width="772" height="140" as="geometry" />
         </mxCell>
@@ -62,10 +73,10 @@
           <mxGeometry x="749" y="619" width="208" height="118" as="geometry" />
         </mxCell>
         <mxCell id="w4X7jHSgG0uKmDSapHs3-24" value="智能预警平台系统" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;textShadow=1;textDirection=vertical-rl;fontSize=36;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="81" y="160" width="90" height="590" as="geometry" />
+          <mxGeometry x="81" y="150" width="90" height="600" as="geometry" />
         </mxCell>
         <mxCell id="w4X7jHSgG0uKmDSapHs3-25" value="微服务架构&#xa;" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="180" y="160" width="168" height="150" as="geometry" />
+          <mxGeometry x="180" y="150" width="168" height="160" as="geometry" />
         </mxCell>
         <mxCell id="w4X7jHSgG0uKmDSapHs3-26" value="多院部署能力&#xa;(本地/私有云/区域节点)" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="180" y="320" width="170" height="240" as="geometry" />
@@ -84,6 +95,15 @@
         </mxCell>
         <mxCell id="Pc1VlUBRtj1kkJa0Z193-9" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1590" y="558" width="31" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="Pc1VlUBRtj1kkJa0Z193-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=12;strokeWidth=2;" edge="1" parent="1" source="Pc1VlUBRtj1kkJa0Z193-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1730" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1220" y="370" />
+              <mxPoint x="1730" y="370" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
