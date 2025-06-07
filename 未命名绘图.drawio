@@ -42,34 +42,34 @@
         <mxCell id="w4X7jHSgG0uKmDSapHs3-13" value="算法集成框架&#xa;(RF/SVM/XGBoost/MLP)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1467" y="208" width="230" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="w4X7jHSgG0uKmDSapHs3-14" value="特征工程&#xa;(LASSO/SHAP/交叉生成)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-14" value="特征工程&#xa;(LASSO/SHAP/交叉生成)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="970" y="619" width="220" height="118" as="geometry" />
         </mxCell>
         <mxCell id="w4X7jHSgG0uKmDSapHs3-15" value="模型评估&#xa;(交叉验证/AUC/F1)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1737" y="208" width="199" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="w4X7jHSgG0uKmDSapHs3-16" value="双层级风险预警机制" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-16" value="双层级风险预警机制" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;fontStyle=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="1218" y="400" width="750" height="156" as="geometry" />
         </mxCell>
-        <mxCell id="w4X7jHSgG0uKmDSapHs3-17" value="样本级预警&#xa;(风险等级/用药推荐)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-17" value="样本级预警&#xa;(风险等级/用药推荐)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="1217" y="619" width="208" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="w4X7jHSgG0uKmDSapHs3-18" value="科室级建模&#xa;(耐药率趋势/风险地图)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-18" value="科室级建模&#xa;(耐药率趋势/风险地图)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="1480" y="619" width="224" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="w4X7jHSgG0uKmDSapHs3-19" value="预警推送&#xa;(感控联动/干预闭环)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-19" value="预警推送&#xa;(感控联动/干预闭环)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="1759" y="619" width="208" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="w4X7jHSgG0uKmDSapHs3-20" value="大模型智能体" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-20" value="大模型智能体" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;fontStyle=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="366.5" y="400" width="837" height="156" as="geometry" />
         </mxCell>
-        <mxCell id="w4X7jHSgG0uKmDSapHs3-21" value="医学LLM定制&#xa;(&#39;小域医&#39;模型)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-21" value="医学LLM定制&#xa;(&#39;小域医&#39;模型)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="364" y="619" width="157" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="w4X7jHSgG0uKmDSapHs3-22" value="知识库融合&#xa;(指南/临床路径/CARD)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-22" value="知识库融合&#xa;(指南/临床路径/CARD)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="539" y="619" width="201" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="w4X7jHSgG0uKmDSapHs3-23" value="智能生成&#xa;(诊断建议/用药方案)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="w4X7jHSgG0uKmDSapHs3-23" value="智能生成&#xa;(诊断建议/用药方案)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="749" y="619" width="208" height="118" as="geometry" />
         </mxCell>
         <mxCell id="w4X7jHSgG0uKmDSapHs3-24" value="智能预警平台系统" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;textShadow=1;textDirection=vertical-rl;fontSize=36;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
